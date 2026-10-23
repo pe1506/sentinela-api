@@ -12,10 +12,11 @@ API Spring Boot do **Sentinela**, sistema que monitora os sensores de uma linha 
 
 | Nome | RM |
 |---|---|
-| NOME COMPLETO | RM00000 |
-| NOME COMPLETO | RM00000 |
-| NOME COMPLETO | RM00000 |
-
+| Luiz almeida | RM564390 |
+| Mateus bustamante | RM564021 |
+| Erick lima | RM565268 |
+| Pedro  lopes | RM565575 |
+| Christopher Lee | RM563318 |
 ## Repositórios e vídeo
 
 - Backend (Spring Boot): https://github.com/SEU-USUARIO/sentinela-api
